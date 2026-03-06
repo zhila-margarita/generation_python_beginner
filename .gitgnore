@@ -1,4 +1,4 @@
-sandbox/
+.sandbox/
 
 .vscode/
 __pycache__/
